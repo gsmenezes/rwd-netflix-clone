@@ -1,5 +1,5 @@
 # Projeto: Recriando a Interface do Netflix 
-![Logo Netflix](img\logo-init.svg)
+![Print da tela](/img/screenshot.png)
 
 Feito através do bootcamp React Web Developer da DIO. 
 Instruções do Felipe Aguiar.
